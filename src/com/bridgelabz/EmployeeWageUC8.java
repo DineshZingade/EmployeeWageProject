@@ -1,6 +1,7 @@
 package com.bridgelabz;
-//Refactor the Code to write a Class Method to Compute Employee Wage - Use Class Method and Class Variables
-public class EmployeeWage {
+
+//Compute Employee Wage //for multiple companies - Note: Each Company has its own//wage, number of working days//and working hours per month
+public class EmployeeWageUC8 {
 
 	static final int WAGE_PER_HOUR = 20;
 	static final int FULL_DAY_HOUR = 8;
